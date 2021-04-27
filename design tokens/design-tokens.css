@@ -1,0 +1,142 @@
+/* colors */
+:root {
+  --tpr-bg-paper: #ffffff;
+  --tpr-bg-linen: #fefef6;
+  --tpr-bg-cream: #fffae8;
+  --tpr-bg-mist: #faf0ee;
+  --tpr-cast: #dbe3e6;
+  --tpr-red: #cd352a;
+  --tpr-orange: #eca614;
+  --tpr-paris: #addebe;
+  --tpr-green: #71ba8b;
+  --tpr-sky: #b0cde9;
+  --tpr-sea: #5b7688;
+  --tpr-purple: #4d4686;
+  --tpr-brown: #96837c;
+  --tpr-ink-bluepen: #313f99;
+  --tpr-ink-pencil: #a0a0a0;
+  --tpr-ink-blackpen: #111111;
+  --tpr-ink-redpen: #ff0014;
+}
+/* fonts */
+:root {        
+--primary-font: ABC Arizona Flare Trial;
+--secondary-font: ABC Arizona Serif Trial;
+--abc-arizona-text-trial-400: ABC Arizona Text Trial;
+--abc-arizona-mix-trial-300: ABC Arizona Mix Trial;
+--abc-arizona-sans-trial-500: ABC Arizona Sans Trial;
+}
+/* text styles*/
+.h-1 {
+  font-family : var(--primary-font);
+  font-size : 96px;
+  line-height: 120px;
+  letter-spacing : 0em;
+}
+.h-2 {
+  font-family : var(--primary-font);
+  font-size : 72px;
+  line-height: 90px;
+  letter-spacing : 0em;
+}
+.h-3 {
+  font-family : var(--primary-font);
+  font-size : 56px;
+  line-height: 70px;
+  letter-spacing : 0em;
+}
+.h-4 {
+  font-family : var(--primary-font);
+  font-size : 36px;
+  line-height: 45px;
+  letter-spacing : 0em;
+}
+.h-5 {
+  font-family : var(--primary-font);
+  font-size : 24px;
+  line-height: 36px;
+  letter-spacing : 0em;
+}
+.h-6 {
+  font-family : var(--primary-font);
+  font-size : 18px;
+  line-height: 22px;
+  letter-spacing : 0em;
+}
+.context-1 {
+  font-family : var(--secondary-font);
+  font-size : 24px;
+  line-height: 30px;
+  letter-spacing : 0em;
+}
+.body-1 {
+  font-family : var(--abc-arizona-text-trial-400);
+  font-size : 18px;
+  line-height: 24px;
+  letter-spacing : 0em;
+}
+.interview-1 {
+  font-family : var(--abc-arizona-mix-trial-300);
+  font-size : 18px;
+  line-height: 24px;
+  letter-spacing : 0em;
+}
+.cta {
+  font-family : var(--abc-arizona-sans-trial-500);
+  font-size : 16px;
+  line-height: 20px;
+  letter-spacing : 0em;
+}
+.nav {
+  font-family : var(--abc-arizona-sans-trial-500);
+  font-size : 16px;
+  line-height: 20px;
+  letter-spacing : 0em;
+}
+.tag {
+  font-family : var(--abc-arizona-sans-trial-500);
+  font-size : 12px;
+  line-height: 16px;
+  letter-spacing : 0em;
+}
+.body-2 {
+  font-family : var(--abc-arizona-text-trial-400);
+  font-size : 14px;
+  line-height: 18px;
+  letter-spacing : 0em;
+}
+.pull-1 {
+  font-family : var(--secondary-font);
+  font-size : 36px;
+  line-height: 45px;
+  letter-spacing : 0em;
+}
+.context-2 {
+  font-family : var(--secondary-font);
+  font-size : 18px;
+  line-height: 24px;
+  letter-spacing : 0em;
+}
+.pull-2 {
+  font-family : var(--secondary-font);
+  font-size : 24px;
+  line-height: 36px;
+  letter-spacing : 0em;
+}
+.interview-2 {
+  font-family : var(--abc-arizona-mix-trial-300);
+  font-size : 14px;
+  line-height: 18px;
+  letter-spacing : 0em;
+}
+/* SpacePatterns */
+:root {
+  --none: 0px;
+  --xx-small: 2px;
+  --x-small: 4px;
+  --small: 8px;
+  --regular: 16px;
+  --large: 32px;
+  --x-large: 64px;
+  --xx-large: 128px;
+}

@@ -1,0 +1,251 @@
+{
+  "colors" : [
+    {
+      "name" : "TPR BG Paper",
+      "value" : "#ffffff"
+    },
+    {
+      "name" : "TPR BG Linen",
+      "value" : "#fefef6"
+    },
+    {
+      "name" : "TPR BG Cream",
+      "value" : "#fffae8"
+    },
+    {
+      "name" : "TPR BG Mist",
+      "value" : "#faf0ee"
+    },
+    {
+      "name" : "TPR BG Cast",
+      "value" : "#dbe3e6"
+    },
+    {
+      "name" : "TPR Red",
+      "value" : "#cd352a"
+    },
+    {
+      "name" : "TPR Orange",
+      "value" : "#eca614"
+    },
+    {
+      "name" : "TPR Paris",
+      "value" : "#addebe"
+    },
+    {
+      "name" : "TPR Green",
+      "value" : "#71ba8b"
+    },
+    {
+      "name" : "TPR Sky",
+      "value" : "#b0cde9"
+    },
+    {
+      "name" : "TPR Sea",
+      "value" : "#5b7688"
+    },
+    {
+      "name" : "TPR Purple",
+      "value" : "#4d4686"
+    },
+    {
+      "name" : "TPR Brown",
+      "value" : "#96837c"
+    },
+    {
+      "name" : "TPR Ink Bluepen",
+      "value" : "#313f99"
+    },
+    {
+      "name" : "TPR Ink Pencil",
+      "value" : "#a0a0a0"
+    },
+    {
+      "name" : "TPR Ink Blackpen",
+      "value" : "#111111"
+    },
+    {
+      "name" : "TPR Ink Redpen",
+      "value" : "#ff0014"
+    },
+  ]
+}{
+  "fonts" : [
+    "primary-font" : {
+      "name" : "Primary Font",
+      "fontFamily" : "ABC Arizona Flare Trial"
+    },
+    "secondary-font" : {
+      "name" : "Secondary Font",
+      "fontFamily" : "ABC Arizona Serif Trial"
+    },
+    "abc-arizona-text-trial-400" : {
+      "name" : "ABC Arizona Text Trial 400",
+      "fontFamily" : "ABC Arizona Text Trial"
+    },
+    "abc-arizona-mix-trial-300" : {
+      "name" : "ABC Arizona Mix Trial 300",
+      "fontFamily" : "ABC Arizona Mix Trial"
+    },
+    "abc-arizona-sans-trial-500" : {
+      "name" : "ABC Arizona Sans Trial 500",
+      "fontFamily" : "ABC Arizona Sans Trial"
+    },
+  ],
+  "typeStyles" : [
+    "h-1" : {
+      "name" : "H1",
+      "fontFamily" : "ABC Arizona Flare Trial",
+      "fontSize" : "96px",
+      "lineHeight" : "120px",
+      "letterSpacing" : "0em",
+    },
+    "h-2" : {
+      "name" : "H2",
+      "fontFamily" : "ABC Arizona Flare Trial",
+      "fontSize" : "72px",
+      "lineHeight" : "90px",
+      "letterSpacing" : "0em",
+    },
+    "h-3" : {
+      "name" : "H3",
+      "fontFamily" : "ABC Arizona Flare Trial",
+      "fontSize" : "56px",
+      "lineHeight" : "70px",
+      "letterSpacing" : "0em",
+    },
+    "h-4" : {
+      "name" : "H4",
+      "fontFamily" : "ABC Arizona Flare Trial",
+      "fontSize" : "36px",
+      "lineHeight" : "45px",
+      "letterSpacing" : "0em",
+    },
+    "h-5" : {
+      "name" : "H5",
+      "fontFamily" : "ABC Arizona Flare Trial",
+      "fontSize" : "24px",
+      "lineHeight" : "36px",
+      "letterSpacing" : "0em",
+    },
+    "h-6" : {
+      "name" : "H6",
+      "fontFamily" : "ABC Arizona Flare Trial",
+      "fontSize" : "18px",
+      "lineHeight" : "22px",
+      "letterSpacing" : "0em",
+    },
+    "context-1" : {
+      "name" : "Context 1",
+      "fontFamily" : "ABC Arizona Serif Trial",
+      "fontSize" : "24px",
+      "lineHeight" : "30px",
+      "letterSpacing" : "0em",
+    },
+    "body-1" : {
+      "name" : "Body 1",
+      "fontFamily" : "ABC Arizona Text Trial",
+      "fontSize" : "18px",
+      "lineHeight" : "24px",
+      "letterSpacing" : "0em",
+    },
+    "interview-1" : {
+      "name" : "Interview 1",
+      "fontFamily" : "ABC Arizona Mix Trial",
+      "fontSize" : "18px",
+      "lineHeight" : "24px",
+      "letterSpacing" : "0em",
+    },
+    "cta" : {
+      "name" : "CTA",
+      "fontFamily" : "ABC Arizona Sans Trial",
+      "fontSize" : "16px",
+      "lineHeight" : "20px",
+      "letterSpacing" : "0em",
+    },
+    "nav" : {
+      "name" : "Nav",
+      "fontFamily" : "ABC Arizona Sans Trial",
+      "fontSize" : "16px",
+      "lineHeight" : "20px",
+      "letterSpacing" : "0em",
+    },
+    "tag" : {
+      "name" : "Tag",
+      "fontFamily" : "ABC Arizona Sans Trial",
+      "fontSize" : "12px",
+      "lineHeight" : "16px",
+      "letterSpacing" : "0em",
+    },
+    "body-2" : {
+      "name" : "Body 2",
+      "fontFamily" : "ABC Arizona Text Trial",
+      "fontSize" : "14px",
+      "lineHeight" : "18px",
+      "letterSpacing" : "0em",
+    },
+    "pull-1" : {
+      "name" : "Pull 1",
+      "fontFamily" : "ABC Arizona Serif Trial",
+      "fontSize" : "36px",
+      "lineHeight" : "45px",
+      "letterSpacing" : "0em",
+    },
+    "context-2" : {
+      "name" : "Context 2",
+      "fontFamily" : "ABC Arizona Serif Trial",
+      "fontSize" : "18px",
+      "lineHeight" : "24px",
+      "letterSpacing" : "0em",
+    },
+    "pull-2" : {
+      "name" : "Pull 2",
+      "fontFamily" : "ABC Arizona Serif Trial",
+      "fontSize" : "24px",
+      "lineHeight" : "36px",
+      "letterSpacing" : "0em",
+    },
+    "interview-2" : {
+      "name" : "Interview 2",
+      "fontFamily" : "ABC Arizona Mix Trial",
+      "fontSize" : "14px",
+      "lineHeight" : "18px",
+      "letterSpacing" : "0em",
+    },
+  ]
+}{
+  "SpacePatterns" : [
+    {
+      "name" : "none",
+      "value" : "0px"
+    },
+    {
+      "name" : "xx-small",
+      "value" : "2px"
+    },
+    {
+      "name" : "x-small",
+      "value" : "4px"
+    },
+    {
+      "name" : "small",
+      "value" : "8px"
+    },
+    {
+      "name" : "regular",
+      "value" : "16px"
+    },
+    {
+      "name" : "large",
+      "value" : "32px"
+    },
+    {
+      "name" : "x-large",
+      "value" : "64px"
+    },
+    {
+      "name" : "xx-large",
+      "value" : "128px"
+    },
+  ]
+}
